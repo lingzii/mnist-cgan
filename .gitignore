@@ -1,1 +1,1 @@
-cgan_mnist/*.h5
+cgan_mnist/G_0*.h5
